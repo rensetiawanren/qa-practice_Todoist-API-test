@@ -5,7 +5,7 @@
 
 ---
 
-# QA Practice - Todoist API Testing
+# QA Practice - Todoist (API Testing)
 API Testing Todoist Apps.
 
 ---
