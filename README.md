@@ -19,6 +19,10 @@ API Testing Todoist Apps.
     <a href="">
       <img src="https://img.shields.io/badge/-JSON-272727?style=flat-square&logo=json&logoColor="/>
     </a>
+  <!--[JSON]-->
+    <a href="">
+      <img src="https://img.shields.io/badge/-Postman-272727?style=flat-square&logo=postman&logoColor="/>
+    </a>  
 
 ---
 
