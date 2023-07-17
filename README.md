@@ -23,11 +23,11 @@ API testing Todoist Apps.
 
   <h3> Testing Tools for Manual </h3>
     <!--[Microsoft Edge]-->
-      <a href="">
+      <a href="https://www.microsoft.com/en-us/edge">
         <img src="https://img.shields.io/badge/-Microsoft%20Edge-272727?style=flat-square&logo=microsoft%20edge&logoColor=blue"/>
       </a>
     <!--[Todoist]-->
-      <a href="">
+      <a href="https://todoist.com/">
         <img src="https://img.shields.io/badge/-Todoist-272727?style=flat-square&logo=todoist&logoColor="/>
       </a>
     <!--[Postman]-->
@@ -40,10 +40,14 @@ API testing Todoist Apps.
       <a href="https://www.google.com/sheets/about/">
         <img src="https://img.shields.io/badge/-Google%20Spreadsheets-272727?style=flat-square&logo=google-sheets&logoColor="/>
       </a>
+    <!--[Google Slide]-->
+      <a href="https://www.google.com/slides/about/">
+        <img src="https://img.shields.io/badge/-Google%20Slides-272727?style=flat-square&logo=google-slides&logoColor="/>
+      </a>  
 
   <h3> Operating System </h3>
     <!--[MacOS]-->
-      <a href="https://www.google.com/sheets/about/">
+      <a href="httpshttps://www.apple.com/id/macos">
         <img src="https://img.shields.io/badge/-MacOS-272727?style=flat-square&logo=MacOS&logoColor="/>
       </a>
 
