@@ -47,7 +47,7 @@ API testing Todoist Apps.
 
   <h3> Operating System </h3>
     <!--[MacOS]-->
-      <a href="httpshttps://www.apple.com/id/macos">
+      <a href="https://www.apple.com/id/macos">
         <img src="https://img.shields.io/badge/-MacOS-272727?style=flat-square&logo=MacOS&logoColor="/>
       </a>
 
