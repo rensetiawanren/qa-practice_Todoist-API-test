@@ -1,6 +1,6 @@
 <!--[Banner]-->
 <p align="center">
-  <img src="https://github.com/rensetiawanren/qa-practice_Todoist-API-test/blob/main/image/banner/CB-003_1-todoist-api.png"/>
+  <img src="https://github.com/rensetiawanren/qa-practice_Todoist-API-test/blob/main/image/banner/CB-003_1-todoist+api.png"/>
 </p>
 
 ---
@@ -10,21 +10,47 @@ API testing Todoist Apps.
 
 ---
 
-<!--[Tech Stack]-->
-<h2 align="left">
-  <img src="https://github.com/rensetiawanren/rensetiawanren/blob/main/image/emoji/desktop-computer_1f5a5-fe0f.png" width="20px" height="20px" /> Tech Stack
-</h2>
 
-  <h3> Programming Language </h3>
-    <!--[JSON]-->
+### Mini Project Instruction
+As QA Engineer, you are asked to testing API of Todoist website.
+
+### Project Goals:
+- Practical tasks to improve basic testing skills
+- Projects can be useful to serve as a personal mini portfolio
+
+### Workflow:
+- 
+
+---
+
+<!--[Tech Stack]-->
+## Tech Stack
+
+##### Programming Language
+<p align="justify">
+  <!--[JSON]-->
       <a href="https://www.json.org/json-en.html">
         <img src="https://img.shields.io/badge/-JSON-272727?style=flat-square&logo=json&logoColor="/>
       </a>
+</p>    
 
-  <h3> Testing Tools for Manual </h3>
-    <!--[Microsoft Edge]-->
-      <a href="https://www.microsoft.com/en-us/edge">
-        <img src="https://img.shields.io/badge/-Microsoft%20Edge-272727?style=flat-square&logo=microsoft%20edge&logoColor=blue"/>
+##### Versioning Control
+<p align="justify">    
+  <!--[Git]-->
+    <a href="">
+      <img src="https://img.shields.io/badge/-Git-272727?style=flat-square&logo=git&logoColor="/>
+    </a>
+  <!--[GitHub]-->
+    <a href="">
+      <img src="https://img.shields.io/badge/-GitHub-272727?style=flat-square&logo=github&logoColor="/>
+    </a>    
+</p>    
+
+##### Testing Tools for Manual
+<p align="justify">    
+    <!--[Visual Studio Code]-->
+      <a href="">
+        <img src="https://img.shields.io/badge/-Firefox%20Developer%20Edition-272727?style=flat-square&logo=firefox&logoColor=blue"/>
       </a>
     <!--[Todoist]-->
       <a href="https://todoist.com/">
@@ -33,23 +59,28 @@ API testing Todoist Apps.
     <!--[Postman]-->
       <a href="https://www.postman.com/">
         <img src="https://img.shields.io/badge/-Postman-272727?style=flat-square&logo=postman&logoColor="/>
-      </a>  
+      </a>
+</p>
 
-  <h3> Documentation Tools </h3>
+#### Documentation Tools
+<p align="justify">
     <!--[Google Spreadsheet]-->
       <a href="https://www.google.com/sheets/about/">
         <img src="https://img.shields.io/badge/-Google%20Spreadsheets-272727?style=flat-square&logo=google-sheets&logoColor="/>
       </a>
     <!--[Google Slide]-->
       <a href="https://www.google.com/slides/about/">
-        <img src="https://img.shields.io/badge/-Google%20Slides-272727?style=flat-square&logo=google-slides&logoColor="/>
+        <img src="https://img.shields.io/badge/-Google%20Slides-272727?style=flat-square&logo=microsoft-powerpoint&logoColor=B7472A"/>
       </a>  
+</p>
 
-  <h3> Operating System </h3>
+#### Operating System
+<p align="justify">
     <!--[MacOS]-->
       <a href="https://www.apple.com/id/macos">
         <img src="https://img.shields.io/badge/-MacOS-272727?style=flat-square&logo=MacOS&logoColor="/>
       </a>
+</p>
 
 ---
 
