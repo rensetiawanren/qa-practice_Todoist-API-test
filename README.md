@@ -67,10 +67,6 @@ As QA Engineer, you are asked to testing API of Todoist website.
     <!--[Google Spreadsheet]-->
       <a href="https://www.google.com/sheets/about/">
         <img src="https://img.shields.io/badge/-Google%20Spreadsheets-272727?style=flat-square&logo=google-sheets&logoColor="/>
-      </a>
-    <!--[Google Slide]-->
-      <a href="https://www.google.com/slides/about/">
-        <img src="https://img.shields.io/badge/-Google%20Slides-272727?style=flat-square&logo=microsoft-powerpoint&logoColor=B7472A"/>
       </a>  
 </p>
 
