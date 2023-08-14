@@ -1,6 +1,6 @@
 <!--[Banner]-->
 <p align="center">
-  <img src="https://github.com/rensetiawanren/qa-practice_Todoist-API-test/blob/main/image/banner/CB-003_1-todoist+api.png"/>
+  <img src="https://github.com/rensetiawanren/qa-practice_Todoist-API-test/blob/main/image/banner/CB-003-00004_qa+practice_todoist+api+manual.png"/>
 </p>
 
 ---
